@@ -19,8 +19,8 @@ public class AboutView extends VerticalLayout {
         img.setWidth("200px");
         add(img);
 
-        add(new H2("Esta es la página del about"));
-        add(new Paragraph("Aquí añadiremos más cosas 🤗"));
+        add(new H2("Welcome to the about page"));
+        add(new Paragraph("We are pending to write new texts 🤗"));
 
         setSizeFull();
         setJustifyContentMode(JustifyContentMode.CENTER);
