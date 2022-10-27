@@ -20,7 +20,7 @@ public class AboutView extends VerticalLayout {
         add(img);
 
         add(new H2("Esta es la página del about"));
-        add(new Paragraph("It’s a place where you can grow your own UI 🤗"));
+        add(new Paragraph("Aquí añadiremos más cosas 🤗"));
 
         setSizeFull();
         setJustifyContentMode(JustifyContentMode.CENTER);
